@@ -1,2 +1,2 @@
 # BookListParcer
-This script is parced csv file with books
+This script parces csv file with books
